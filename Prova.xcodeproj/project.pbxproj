@@ -13,6 +13,7 @@
 		A9181557260A3EC000467D60 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A9181555260A3EC000467D60 /* Main.storyboard */; };
 		A9181559260A3EC200467D60 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9181558260A3EC200467D60 /* Assets.xcassets */; };
 		A918155C260A3EC200467D60 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A918155A260A3EC200467D60 /* LaunchScreen.storyboard */; };
+		A9181565260A411300467D60 /* DoubleController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9181564260A411300467D60 /* DoubleController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A9181558260A3EC200467D60 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A918155B260A3EC200467D60 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A918155D260A3EC200467D60 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A9181564260A411300467D60 /* DoubleController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoubleController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				A918154F260A3EC000467D60 /* AppDelegate.swift */,
 				A9181551260A3EC000467D60 /* SceneDelegate.swift */,
 				A9181553260A3EC000467D60 /* ViewController.swift */,
+				A9181564260A411300467D60 /* DoubleController.swift */,
 				A9181555260A3EC000467D60 /* Main.storyboard */,
 				A9181558260A3EC200467D60 /* Assets.xcassets */,
 				A918155A260A3EC200467D60 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A9181565260A411300467D60 /* DoubleController.swift in Sources */,
 				A9181554260A3EC000467D60 /* ViewController.swift in Sources */,
 				A9181550260A3EC000467D60 /* AppDelegate.swift in Sources */,
 				A9181552260A3EC000467D60 /* SceneDelegate.swift in Sources */,
